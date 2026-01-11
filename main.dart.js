@@ -69069,7 +69069,7 @@ n.push(B.wm)
 o=f?1/0:g*0.5
 l=j.a.c
 n.push(A.qO(A.kQ(A.hi(A.cl(A.bb(l.c,i,i,A.cU().$3$color$fontSize$height(B.t,f?16:18,1.8),i),i,o),A.aJ(4e5,0,0),i,i),i,A.aJ(6e5,0,0)),0.1,i,i,i,0))
-q=A.c([new A.oc(A.ca(i,A.cL(n,B.U,B.co,B.D),B.o,i,i,i,i,q,i,new A.aP(p,0,p,0),i,i,i),i)],m)
+q=A.c([new A.oc(A.ca(i,A.cL(n,B.U,B.co,B.D),B.o,i,new A.ak(0,1/0,q,1/0),i,i,i,i,new A.aP(p,0,p,0),i,i,i),i)],m)
 j.a.toString
 p=f?24:g*0.15
 o=A.a6X(A.kQ(A.hi(A.bb("Key Features",i,i,A.cU().$3$color$fontSize$fontWeight(B.e,f?28:36,B.N),i),i,i,i),i,A.aJ(5e5,0,0)),-0.05,i,0)
